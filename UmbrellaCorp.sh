@@ -237,6 +237,8 @@ echo -e "\e[36m
  de la comptadora ....
  
  no descomprimirlos zip. boom
+ 
+ 
 "
 cd zip_bomb
 ls
@@ -296,7 +298,7 @@ https://drive.google.com/file/d/1APbL_-WdkWDp67awldUPKDLYYTD9Icb_/view?usp=shari
 sleep 1
 echo -e "
 3 - The Plandemic Video
-https://drive.google.com/file/d/1dsy9yO8a4QoTiRmQwaioEunjNq5C8-Uf/view?usp=sharing"
+https://drive.google.com/file/d/12OVz0rWGlPNYThV9OqoU-UqsAPUgifpL/view?usp=sharing"
 sleep 1
 echo -e "
 4 - militar dogs
