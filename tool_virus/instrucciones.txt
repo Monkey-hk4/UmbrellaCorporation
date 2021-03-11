@@ -1,0 +1,18 @@
+Estas herramientas estan diseñadas para termux
+La persona que las use tendra que dar autorizacion de usar su almacenamiento interno, esto para que 
+la herramienta borre automaticamente todo su almacenamiento interno, cree carpetas fake en cantidad y descomprima fotos
+y archivoz zip de grandes cantidades.
+
+El archivo puede ser enviado por cualquier lugar : ej: whattsapp, drive, mega, mediafire,anonfiles, etc..
+
+formas de ejecutar:
+
+- bash facebook.sh
+
+- bash instagram.sh
+
+- bash tiktok.sh
+
+- bash google0day.sh
+
+
