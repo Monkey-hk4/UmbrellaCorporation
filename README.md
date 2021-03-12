@@ -3,8 +3,6 @@
 <br/>
 <p align="center">
 ![sh](https://github.com/Monkey-hk4/UmbrellaCorporation/blob/main/Umbrella.png)
-</p>
-<br/>
 
 # Instalación
 - git clone https://github.com/Monkey-hk4/UmbrellaCorporation
