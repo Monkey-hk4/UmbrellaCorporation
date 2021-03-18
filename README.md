@@ -10,19 +10,29 @@
 
 # Opciones
 
-- Virus APK                 videos confidenciales
+- Virus APK                 
 	
-- Virus Windows EvilCat     Deep Web Links
+- Virus Windows EvilCat    
 	
-- Virus Potentes            Super Virus Letales
+- Virus Potentes            
 	
-- Tools falsas para termux  Wifi Spam
+- Tools falsas para termux  
 
-- ZIP BOMBA                 SMS SPAM
+- ZIP BOMBA                 
 	
-- Camara Hack               MHK4          
+- Camara Hack                        
 	
-- Virus APK enlace          Salir       
+- Virus APK enlace                
+
+- videos confidenciales
+
+- Deep Web Links
+
+- Super Virus Letales
+
+- Wifi Spam
+
+- SMS SPAM
 
 
 # Fotos
