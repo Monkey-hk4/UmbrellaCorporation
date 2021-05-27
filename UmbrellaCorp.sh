@@ -31,7 +31,7 @@ echo -e "
 \e[1;37m            ..,\e[1;31mdxxxkkkkkxkxxdd\e[1;37m;..
 \e[1;32m                 CORPORATION     
  
-         MONKEY-HK4 PROYECT UMBRELLA
+         MONKEY-HK4 PROYECTO UMBRELLA
 		 
 "
 
